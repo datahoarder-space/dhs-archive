@@ -1,0 +1,15 @@
+Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software and comes bundled with a variety of free and open-source applications.
+
+The project was conceived by Clément Lefèbvre and is being actively developed by the Linux Mint Team and community.
+
+==History==
+
+Linux Mint started in 2006 with a beta release of Linux Mint 1.0, code-named "Ada", based on Kubuntu. Following its release, Linux Mint 2.0 "Barbara" was the first version to use Ubuntu as its codebase. Linux Mint had few users from these early versions until the release of Linux Mint 3.0, "Cassandra."
+
+Linux Mint 2.0 was based on Ubuntu 6.10, using its package repositories and using it as a codebase. From there, Linux Mint followed its own codebase, building each release from its previous one, but continued to use the package repositories from the latest Ubuntu release. This resulted in making the base between the two systems almost identical, guaranteeing full compatibility between the two distributions rather than having Mint become a fork.
+
+In 2008, Linux Mint adopted the same release cycle as Ubuntu and dropped its minor version number before releasing version 5 "Elyssa." The same year, in an effort to increase the compatibility between the two systems, Linux Mint decided to abandon its code-base and changed the way it built its releases. Starting with Linux Mint 6 "Felicia," each release was now completely based on the latest Ubuntu release, built directly from it, and timed for approximately one month after the corresponding Ubuntu release, usually in May or November.
+
+In 2010, Linux Mint released Linux Mint Debian Edition (LMDE). Unlike the other Ubuntu-based editions (Ubuntu Mint), LMDE was originally a rolling release based directly on Debian and was not tied to Ubuntu packages or its release schedule. It was announced on May 27, 2015 that the Linux Mint team would no longer support the original rolling release version of LMDE after January 1, 2016. LMDE 2 "Betsy," the current release of LMDE, is a long term support release based on Debian Jessie. When LMDE 2 was released it was announced that all LMDE users would be automatically upgraded to new versions of MintTools software and new Desktop Environments before they were released into the main edition of Linux Mint.
+
+On 20 February 2016, the Linux Mint website was breached by unknown hackers, who briefly replaced download links for a version of Linux Mint with a modified version that contained malware. The hackers also breached the database of the website's user forum. After the attack Linux Mint was severely criticized as being a distribution that, unlike many others at the time, "just worked" and became popular with non-technical users, but at the expense of security, with some security updates to the underlying Ubuntu or Debian blacklisted from running due to compatibility issues.

@@ -1,0 +1,1 @@
+System 3.0 (Finder 5.1) was introduced with the Macintosh Plus, officially implementing HFS, 800K startup drives, support for several new technologies including SCSI and AppleShare, and Trash "bulging" (i.e., when the Trash contains files, it gains a bulged appearance).

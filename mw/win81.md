@@ -1,0 +1,5 @@
+[[File:Windows_8.1.png]]
+
+Windows 8.1 (Codenamed "Blue")is an upgrade for Windows 8. It is an Operating System created by Microsoft. The Operating System was first unveiled as a public beta in June 2013 and it was Released to Manufacturing in August 27, 2013 and was released to the public on October 17, 2013, Almost a year after Windows 8 was released. t was a free upgrade from Windows 8 and Windows RT via the Windows Store, Although users who got Windows 8 outside of Retail Copies or OEMs must install Windows 8.1 through a fresh install. Windows 8.1 is part of Windows 8's lifecycle and is required to maintain support and Windows Updates after January 12, 2016. Windows 8.1 is not available through Windows Update. Windows 8.1 introduced an updated Start Screen, OneDrive, Internet Explorer 11, A Bing powered search engine, 3D printing, Support for high resolution displays, Wi-Fi direct, and it re-introduced the Start Button.
+
+The operating system received more positive reviews than Windows 8 with critics praising the improved OneDrive integration and its user interface tweaks.

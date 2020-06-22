@@ -1,0 +1,7 @@
+Debian (/ˈdɛbiən/) is a Unix-like computer operating system that is composed entirely of free software, and packaged by a group of individuals participating in the Debian Project. The Debian Project was first announced in 1993 by Ian Murdock. Debian 0.01 was released on September 15, 1993, and the first stable release was made in 1996. The Debian stable release branch is the most popular Debian edition for personal computers and network servers, and has been used as a base for many other distributions.
+
+The project's work is carried out over the Internet by a team of volunteers guided by the Debian Project Leader and three foundational documents: the Debian Social Contract, the Debian Constitution, and the Debian Free Software Guidelines. New distributions are updated continually, and the next candidate is released after a time-based freeze.
+
+As one of the earliest operating systems based on the Linux kernel, it was decided that Debian was to be developed openly and freely distributed in the spirit of the GNU Project. This decision drew the attention and support of the Free Software Foundation, which sponsored the project for one year from November 1994 to November 1995. Upon the ending of the sponsorship, the Debian Project formed the non-profit organisation Software in the Public Interest.
+
+While all Debian releases are derived from the GNU Operating System and use the GNU userland and the GNU C Library (glibc), other kernels aside from the Linux kernel are also available, such as those based on BSD kernels and the GNU Hurd microkernel.

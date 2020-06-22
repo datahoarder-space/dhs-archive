@@ -1,0 +1,1 @@
+System 4.0 was released with the Macintosh SE and System 4.1 first shipped with the Macintosh II—these new machines required additional support for the first expansion slots, the Apple Desktop Bus (ADB), internal hard drives and, on the Macintosh II, external color displays and the first Motorola 68020 processor.[15]
